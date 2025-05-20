@@ -1,7 +1,7 @@
-streamlit
-streamlit-webrtc
-opencv-python
-pydub
-pandas
-mediapipe
-av
+streamlit==1.45.1
+streamlit-webrtc==0.62.4
+opencv-python==4.11.0.86
+pydub==0.25.1
+pandas==2.2.3
+numpy
+scikit-learn
